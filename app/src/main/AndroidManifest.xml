@@ -13,7 +13,7 @@
         android:theme="@style/Theme.RouteAndroidDiplomaTasks"
         tools:targetApi="31">
         <activity
-            android:name=".task1.FbloginPageSample"
+            android:name=".task1.facebookPost"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,7 +28,7 @@
         </activity>
 
         <activity
-            android:name=".task1.facebookPost"
+            android:name=".task1.FbloginPageSample"
             android:exported="true" >
 
         </activity>
